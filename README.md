@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 👩🏻‍💻 currently working for an insurance company as an IT security staff 🐣
 <!--
 **Hyomnie/Hyomnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
